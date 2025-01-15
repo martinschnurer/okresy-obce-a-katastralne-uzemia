@@ -108,7 +108,7 @@ kód okresu,kód KÚ,názov obce
 608,869643,Višňové v Gemeri
 608,860131,Železné
 608,874361,Žiar pri Šafárikove
-609,,okres RIMAVSKÁ SOBOTA,
+609,,okres RIMAVSKÁ SOBOTA
 609,800040,Abovce
 609,800350,Babinec
 609,800601,Bakta
@@ -634,7 +634,7 @@ kód okresu,kód KÚ,názov obce
 703,870765,Výborná
 703,872296,Zálesie v Zamagurí
 703,873951,Žakovce
-704,,okres LEVOčA
+704,,okres LEVOČA
 704,800627,Baldovce
 704,802263,Beharovce
 704,802930,Bijacovce
@@ -1220,7 +1220,7 @@ kód okresu,kód KÚ,názov obce
 805,860701,Šebastovce
 805,881317,Skladná
 805,827088,Vyšné Opátske
-806okres KOŠICE-OKOLIE
+806,,okres KOŠICE-OKOLIE
 806,800431,Bačkovík
 806,802123,Baška
 806,802565,Belža
